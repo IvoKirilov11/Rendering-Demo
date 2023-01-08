@@ -9,3 +9,5 @@ const createArticale = (article) =>`
         <footer>Author: ${article.author}</footer>
      </article>
 `;
+
+export default createArticale;
