@@ -1,0 +1,20 @@
+[
+    {
+        "title": "First Articale",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "author": "Peter Peteron"
+
+    },
+    {
+        "title": "Second Articale",
+        "content": "Eligendi cupiditate, exercitationem quos animi dolorem earum libero minus natus architecto vero obcaecati aut debitis consequatur provident sequi illo officia rem harum ipsum." ,
+        "author": "John Smith"
+
+    },
+    {
+        "title": "Third Articale",
+        "content": "Eum facere commodi quia minus id reprehenderit impedit reiciendis, laborum architecto! Dolorum alias voluptas molestias provident." ,
+        "author": "Mery Poppins"
+
+    }
+]
